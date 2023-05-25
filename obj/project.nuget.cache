@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "c/4FrEVMW5pfeRIKZWrEfGS+J2XiZ8SMOnSan8zhrO0igvErSeykgpWFOEqjrRi4D6FUZ4e5N+e76Yc2fTiuRQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\github\\WordMapService\\WordMapService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tarun\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tarun\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tarun\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tarun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tarun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
